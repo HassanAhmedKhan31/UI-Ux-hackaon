@@ -1,9 +1,9 @@
-import Hom from "./components/home/page";
 
+import Hom from "./components2/home/page";
 export default function Home (){
   return(
-    <div>
-      <Hom/>
+    <div >
+      <div><Hom/></div>
     </div>
   );
 }
