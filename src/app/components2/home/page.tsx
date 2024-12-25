@@ -392,7 +392,8 @@ export default function Hom (){
         <div className="cp">
           <div className="
           cq">
-            <div className="cy"> <h5>SUMMER 2020</h5></div>
+            <div className="cy
+            "> <h5>SUMMER 2020</h5></div>
             <div className="cr"><h2>Part of the Neural Universe</h2></div>
           <div className="cs"><h4>We know how large objects will act, but things on a small scale.</h4></div>
           <div className="ct">

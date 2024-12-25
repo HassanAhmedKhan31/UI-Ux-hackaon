@@ -803,6 +803,8 @@ text-decoration-skip-ink: none;
   height: 84.3px;
   gap: 0px;
   opacity: 0px;  
+  position: relative;
+left: 30px;
 font-family: Montserrat;
 font-size: 20px;
 font-weight: 400;
@@ -823,20 +825,23 @@ opacity: 0px;
 
 }
 .cu{
-  width: Hug (156px)px;
-height: Hug (52px)px;
+  margin-top: 10px;
+  width:  160px;
+height: 52px;
 padding: 15px 40px 15px 40px;
 gap: 10px;
 border-radius: 5px 0px 0px 0px;
 opacity: 0px;
 background: #23A6F0;
-
+position: relative;
+left: 70px;
 }
 .cv{
   width: 76px;
 height: 22px;
 gap: 0px;
 opacity: 0px;
+
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
@@ -850,8 +855,10 @@ color: #FFFFFF;
 }
 .cw{
   margin-top: 5px;
-  width: Hug (165px)px;
-height: Hug (52px)px;
+  width:  160px;
+height: 52px;
+position: relative;
+left: 70px;
 padding: 15px 40px 15px 40px;
 gap: 10px;
 border-radius: 5px 0px 0px 0px;
@@ -880,13 +887,14 @@ color: #23A6F0;
 height: 24px;
 gap: 0px;
 opacity: 0px;
-
+position: relative;
+left: 90px;
 font-family: Montserrat;
 font-size: 16px;
 font-weight: 700;
 line-height: 24px;
 letter-spacing: 0.10000000149011612px;
-text-align: left;
+text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
 color: #BDBDBD;
